@@ -3,3 +3,4 @@ numpy
 pandas
 gensim
 seaborn
+lxml
